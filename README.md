@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Oi, eu sou o Augusto Pires!<br>🌱 Atualmente, estou em processo de me tornar um desenvolvedor Full Stack.<br>⚡ Meus hobbies são focados. geralmente. em jogos virtuais e artes visuais.
+💬 Oi, eu sou o Augusto Pires!<br>🌱 Atualmente, estou em processo de me tornar um desenvolvedor Full Stack.<br>⚡ Meus hobbies são focados, geralmente, em jogos virtuais e artes visuais.
 
 
 # 💻 Tech Stack:
